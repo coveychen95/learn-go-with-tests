@@ -1,4 +1,7 @@
-# 
+# 来源
+GitHub：https://github.com/quii/learn-go-with-tests
+Gitbook：https://quii.gitbook.io/learn-go-with-tests
+
 
 在初始化一个 Go 项目之前，请确保已经在您的系统上安装了 Go。您可以在终端中运行 go version 命令来检查 Go 是否已经安装并且已经配置好 PATH 环境变量。
 
