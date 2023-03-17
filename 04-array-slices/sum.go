@@ -1,10 +1,12 @@
 package array_slices
 
-func Sum(numbers [5]int) int {
-	sum := 0
+func SumSlices(list []int) int {
 
-	for i := 0; i < 5; i++ {
-		sum += numbers[i]
+	sum := 0
+	
+
+	for i := range list {
+		sum += list[i]
 	}
 
 	return sum
